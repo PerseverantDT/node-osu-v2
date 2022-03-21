@@ -1,1 +1,1 @@
-"# node-osu-v2" 
+# node-osu-v2
